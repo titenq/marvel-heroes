@@ -1,0 +1,11 @@
+.container {
+  height: calc(100vh - 140px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading {
+  font-size: 4vw;
+  color: #fff;
+}
